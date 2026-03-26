@@ -8,10 +8,10 @@
 
 องค์กรของเราประกอบด้วยโปรเจกต์หลักดังต่อไปนี้ (คลิกเพื่อเข้าไปยัง Repository ของแต่ละโปรเจกต์):
 
-### 1. 📦 [CareOS](./CareOS) (Next-Gen HIS)
+### 1. 📦 [CareOS](./care-os) (Next-Gen HIS)
 โปรเจกต์หลักในการพัฒนาระบบสารสนเทศโรงพยาบาลระดับ Enterprise เพื่อนำไปใช้งานแทนที่ระบบ HOSxP เดิม
 
-### 2. 📊 [SmartDashboard](./SmartDashboard)
+### 2. 📊 [SmartDashboard](./smart-dashboard)
 โปรเจกต์พัฒนาระบบแดชบอร์ดอัจฉริยะ สำหรับแสดงผลข้อมูลแบบ Real-time
 ---
 
